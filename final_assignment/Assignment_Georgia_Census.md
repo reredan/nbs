@@ -9,17 +9,13 @@ does every day.
 ## 1. Get the data
 
 From `https://www.geostat.ge/en/modules/categories/910/demographic-and-social-characteristics`
-download the **XLSX** for (links verified 2026-07-03; trainers have USB copies):
+download the **XLSX** for (links verified 2026-07-03; trainers have copies):
 
 - **Table 4** — Population by regions, self-governed units, sex and **nationality**.
 - **Table 5** — Population by regions, self-governed units, **native language and
   Georgian language knowledge level**.
 
-Don't edit them by hand — let Claude Code do everything, so it's reproducible.
-
-**Your anchor number: total population 3,929,581** (14 Nov 2024, excluding the
-occupied territories). Whatever you extract must reconcile to it — that's your
-first and best sanity check.
+Keep it reproducible — don't edit the files by hand; let Claude Code do the work.
 
 ## 2. The question
 

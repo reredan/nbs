@@ -30,7 +30,7 @@ Answer these with Claude Code first — each hides a trap:
   EE / EU / Other, 16+ only. Country of birth is **not** in the PUF; region is
   anonymised to a constant.)
 
-Two hard rules: **all population estimates weighted**, and **equivalised income
+Two rules: **all population estimates weighted**, and **equivalised income
 is a household attribute** — one value per household, never averaged over
 individuals as if personal.
 
@@ -55,7 +55,7 @@ Weighted, with unweighted n shown beside every estimate:
 
 Then the equality report, chart and sceptic pass per `Assignment_Final.md`.
 
-## 5. Honest caveats to carry
+## 5. Honest caveats
 
 - The PUF is **synthetic and not for inference** — your finding describes the
   file, not Estonia. Don't be surprised if it mismatches Eurostat's published

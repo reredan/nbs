@@ -15,14 +15,7 @@ A clean Foundation answer beats a broken Advanced one. Stuck? Tell a trainer —
 there's a fallback dataset so you can still present. Briefs and emergency data
 copies: **https://github.com/reredan/nbs** (`final_assignment/`).
 
-## 2. Ground rules (from yesterday's debrief)
-
-1. **Verify the download first** — row counts / totals against a published figure.
-2. **No silent cleaning** — every change reported. If there's no code, there's no finding.
-3. **n beside every number**; small groups get caveats, not headlines.
-4. **Describe, don't explain** — no causes, no framing that could stigmatise.
-5. **Save the script and rerun it** — your headline number must reproduce
-   from the raw file before you present.
+## 2. Models & the sceptic pass
 
 Work on **Opus**. When your finding is ready, switch (`/model`) to **Fable** —
 if the trainers say the budget allows; otherwise a fresh Opus session — and run
@@ -55,7 +48,12 @@ UNECE guidance on disseminating equality data:
 Then attack it: *"Read this as a hostile journalist looking for a stigmatising
 headline — what would you quote, and how do we fix it?"*
 
-## 4. Present — 5 minutes, 4 slides
+## 4. Hand in
+
+Open **http://172.16.1.17:8000**, enter your team name, upload:
+`equality_report.md`, script, chart, `CLAUDE.md`, slides.
+
+## 5. Present — 5 minutes
 
 1. **Question** — and what the data is.
 2. **The chart** — full screen; it should carry the story alone.
@@ -63,12 +61,3 @@ headline — what would you quote, and how do we fix it?"*
    hostile journalist.
 4. **How we know it's right** — what you checked, and one thing Claude got
    wrong today.
-
-## 5. Hand in
-
-Open **http://\<instructor-ip\>:8000** (address on the board), enter your team
-name, upload: `equality_report.md`, script, chart, `CLAUDE.md`, slides.
-
-*One warning for fast teams: ten charts and significance tests are scope creep —
-and on census data (a full count) significance tests are wrong anyway. One
-question, one chart, defended.*
